@@ -11,7 +11,8 @@ Ten object categories (unknown, person, laptop, tvmonitor, chair, toilet, sink, 
 
 #### Split
 The path performed during the images acquisition was approximately split by half:
-	 - Training raw images ID [0-4000; 7684-9000];
+
+   - Training raw images ID [0-4000; 7684-9000];
    - Testing raw images ID [0-4000; 7684-9000];
    - 4271/3561 object-centric RGB-D training/testing images.
 
