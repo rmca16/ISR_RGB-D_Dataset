@@ -8,13 +8,17 @@ The non-object centric RGB-D dataset was recorded in the Institute of Systems an
 
 #### Labeling
 Ten object categories (unknown, person, laptop, tvmonitor, chair, toilet, sink, desk, door-open, and door-closed) were labeled in every 4th frame achieving a total of 7,832 object-centric RGB-D images.
+Each RGB-D pair raw image has its corresponding annotation file. Each row in the annotation file defines one bounding box, using the syntax `label_idx x_center y_center width height`. The coordinates are scaled into `[0, 1]`, and the `label_idx` should be zero-indexed and correspond to the row number of the class name.
 
 #### Split
 The path performed during the images acquisition was approximately split by half:
 
-   - Training raw images ID [0-4000; 7684-9000];
-   - Testing raw images ID [0-4000; 7684-9000];
+   - Training raw images ID `[0-4000; 7684-9000]`;
+   - Testing raw images ID `[4004-7680; 9004-10000]`;
    - 4271/3561 object-centric RGB-D training/testing images.
+   
+You can perform the training/testing split by using the available code:
+    $ python3 do stuff
 
 
 ## Citation
