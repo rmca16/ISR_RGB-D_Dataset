@@ -20,7 +20,7 @@ The path performed during the images acquisition was approximately split by half
    
 You can perform the training/testing split by using the available code:
 
-    $ python3 do stuff
+    $ python3 Still working on it
 
 
 ## Citation
