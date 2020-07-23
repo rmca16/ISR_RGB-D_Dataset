@@ -16,6 +16,7 @@ The path performed during the images acquisition was approximately split by half
 
    - Training raw images ID `[0-4000; 7684-9000]`;
    - Testing raw images ID `[4004-7680; 9004-10000]`;
+   - 1331/1170 raw RGB-D training/testing images.
    - 4271/3561 object-centric RGB-D training/testing images.
    
 You can perform the training/testing split by using the available code:
