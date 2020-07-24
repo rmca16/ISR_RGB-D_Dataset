@@ -21,7 +21,12 @@ The path performed during the images acquisition was approximately split by half
    
 You can perform the training/testing split by using the available code:
 
-    $ python3 Still working on it
+    $ python3 isr_rgbd_dataset.py
+    
+#### Training
+An example  of how  ISR RGB-D dataset object-centric images can be used in object classification task using the PyTorch framework is available in:
+    
+    $ python3 isr_pytorch_alexnet_example.py
 
 
 ## Citation
