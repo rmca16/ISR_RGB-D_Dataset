@@ -35,7 +35,7 @@ If you use this dataset in your project or research, please consider citing it:
 ```
 @INPROCEEDINGS{isr_rgbd_dataset,
   author={Pereira, Ricardo and Barros, Tiago and Garrote, Luís and Lopes, Ana and Nunes, Urbano J.},
-  title={A Study of the Accuracy/Inference Speed Trade-Off in RGB-D Object Recognition for Mobile Robots Real-Time Applications},
+  title={An Experimental Study of the Accuracy vs Inference Speed of RGB-D Object Recognition in Mobile Robotics},
   booktitle = {29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)},
   year={2020}
 }
