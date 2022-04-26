@@ -40,6 +40,16 @@ If you use this dataset in your project or research, please consider citing it:
   year={2020}
 }
 ```
+```
+@Article{isr_tracking_dataset,
+AUTHOR = {Pereira, Ricardo and Carvalho, Guilherme and Garrote, Luís and Nunes, Urbano J.},
+TITLE = {{Sort and Deep-SORT Based Multi-Object Tracking for Mobile Robotics: Evaluation with New Data Association Metrics}},
+JOURNAL = {Applied Sciences},
+VOLUME = {12},
+YEAR = {2022},
+NUMBER = {3},
+}
+```
 
 
 ## Contacts
