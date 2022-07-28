@@ -5,7 +5,7 @@ RGB-D Dataset recorded using the ISR-InterBot mobile platform
 
 ## Dataset
 The non-object centric RGB-D dataset was recorded in the Institute of Systems and Robotics (University of Coimbra (ISR-UC)) facilities using the Intel RealSense D435 sensor onboard the ISR-InterBot mobile platform. The dataset contains 10,000 RGB-D raw images presenting a mission performed by the ISR-InterBot platform in a lab setting (image frames represent sequence), representing the object conditions under which robotic platforms may navigate. 
-The dataset can be downloaded [here](https://universidadedecoimbra154-my.sharepoint.com/:u:/g/personal/uc2013153797_student_uc_pt/ET8G6AsJrqRDkEl1BudtyXgB8XQoBJUrC6HFFoREpZZQwA).
+The dataset can be downloaded [here](https://drive.google.com/file/d/1XI5gRaeJL-aRw9sZK5kxMHUvmS0Az872/view?usp=sharing).
 
 #### Labeling
 Ten object categories (unknown, person, laptop, tvmonitor, chair, toilet, sink, desk, door-open, and door-closed) were labeled in every 4th frame achieving a total of 7,832 object-centric RGB-D images.
